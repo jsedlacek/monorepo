@@ -1,0 +1,10 @@
+{
+  "name": "@jsedlacek/client",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "typings": "build/index.d.ts",
+  "dependencies": {
+    "@jsedlacek/shared": "^1.0.0",
+    "parcel-bundler": "^1.9.7"
+  }
+}
