@@ -1,10 +1,10 @@
-# Monorepo with yarn worspaces, typescript and parcel
+# Monorepo with yarn workspaces, typescript and parcel
 
 Example monorepo containing three packages:
 
-- server - express server serving static files and API
-- client - client code that loads data from API and renders
-- shared - types and code shared among server and client
+- [server](packages/server) - express server serving static files and API
+- [client](packages/client) - client code that loads data from API and renders
+- [shared](packages/shared) - types and code shared among server and client
 
 ## Setup
 
@@ -14,3 +14,5 @@ cd monorepo
 yarn
 make run
 ```
+
+Open http://localhost:8000
