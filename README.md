@@ -1,4 +1,4 @@
-# Monorepo with yarn worspaces, typescript and parcel
+# Monorepo with yarn workspaces, typescript and parcel
 
 Example monorepo containing three packages:
 
