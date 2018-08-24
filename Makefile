@@ -1,5 +1,3 @@
-BIN = node_modules/.bin
-
 build:
 	$(MAKE) -C packages/server
 	$(MAKE) -C packages/client
