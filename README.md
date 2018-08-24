@@ -14,3 +14,5 @@ cd monorepo
 yarn
 make run
 ```
+
+Open http://localhost:8000
